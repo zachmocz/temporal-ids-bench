@@ -2,7 +2,7 @@
 
 Code for the paper **"Do Transformers Actually Help Intrusion Detection? A Temporal Sequence Evaluation on CIC-IDS2017"** by Zach Moczkodan and Hany Ragab (Royal Military College of Canada). See the paper for the methodology, experimental setup, and results; this repository covers the implementation only.
 
-**Preprint:** to appear on arXiv shortly - link will be added here.
+**Preprint:** [arXiv:2606.11098](https://arxiv.org/abs/2606.11098)
 
 > The code will be released here upon acceptance.
 
@@ -32,12 +32,15 @@ Open the notebook, set the data and output paths (`XXXX_DATA_PATH` / `XXXX_FIG_D
 ## Citation
 
 ```bibtex
-@unpublished{moczkodan2026transformers,
-  author = {Moczkodan, Zach and Ragab, Hany},
-  title  = {Do Transformers Actually Help Intrusion Detection?
-            A Temporal Sequence Evaluation on CIC-IDS2017},
-  note   = {Manuscript under review},
-  year   = {2026}
+@misc{moczkodan2026transformers,
+  author        = {Moczkodan, Zach and Ragab, Hany},
+  title         = {Do Transformers Actually Help Intrusion Detection?
+                   A Temporal Sequence Evaluation on CIC-IDS2017},
+  year          = {2026},
+  eprint        = {2606.11098},
+  archivePrefix = {arXiv},
+  primaryClass  = {cs.CR},
+  doi           = {10.48550/arXiv.2606.11098}
 }
 ```
 
