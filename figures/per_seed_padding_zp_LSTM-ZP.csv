@@ -1,0 +1,4 @@
+accuracy,f1_macro,f1_weighted,recall_macro,precision_macro,train_seconds,fpr,fnr,roc_auc,pr_auc,experiment,model,seed,wall_seconds
+0.9977,0.7607,0.9981,0.8624,0.732,141.82,0.0018,0.0003,0.9966,0.8654,padding_zp,LSTM-ZP,2,177.04
+0.997,0.7475,0.9978,0.9384,0.7181,133.7,0.0024,0.0001,0.9994,0.8732,padding_zp,LSTM-ZP,42,168.9
+0.998,0.7686,0.9983,0.932,0.7354,115.62,0.0014,0.0002,0.9998,0.905,padding_zp,LSTM-ZP,123,150.98

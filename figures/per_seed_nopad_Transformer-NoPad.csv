@@ -1,0 +1,4 @@
+accuracy,f1_macro,f1_weighted,recall_macro,precision_macro,train_seconds,fpr,fnr,roc_auc,pr_auc,experiment,model,seed,wall_seconds
+0.9979,0.9158,0.998,0.9181,0.9148,168.58,0.0004,0.0,0.9998,0.9337,nopad,Transformer-NoPad,2,210.9
+0.9978,0.8709,0.9979,0.8836,0.8616,199.79,0.0004,0.0,0.9998,0.8924,nopad,Transformer-NoPad,42,244.11
+0.9981,0.8915,0.9981,0.9258,0.8764,231.91,0.0001,0.0,0.9998,0.883,nopad,Transformer-NoPad,123,271.19

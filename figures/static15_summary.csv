@@ -1,0 +1,5 @@
+experiment,model,n_seeds,accuracy_mean,accuracy_std,f1_macro_mean,f1_macro_std,f1_weighted_mean,f1_weighted_std,recall_macro_mean,recall_macro_std,precision_macro_mean,precision_macro_std,fpr_mean,fpr_std,fnr_mean,fnr_std,roc_auc_mean,roc_auc_std,pr_auc_mean,pr_auc_std,train_seconds_mean,train_seconds_std
+static15,RF-15,3,0.992,0.001,0.8007,0.0298,0.9939,0.0006,0.9086,0.027,0.7635,0.0331,0.0094,0.0012,0.0006,0.0001,0.9983,0.0017,0.8576,0.0044,4.8033,0.0153
+static15,MLP-15,3,0.8709,0.012,0.4869,0.0111,0.9041,0.0101,0.8561,0.0122,0.4249,0.0232,0.1593,0.0152,0.0015,0.001,0.9934,0.0014,0.6608,0.0136,30.4667,0.491
+static15,CNN-image-15,3,0.8751,0.0121,0.4768,0.0311,0.9078,0.0092,0.8484,0.0166,0.4123,0.0284,0.1532,0.015,0.0039,0.0026,0.9946,0.0011,0.6613,0.0063,25.5033,0.3331
+static15,SVM-15,3,0.81,0.0218,0.3632,0.0234,0.8568,0.0164,0.8053,0.0197,0.3036,0.0196,0.2348,0.0273,0.0011,0.0001,,,,,1605.8433,263.9064

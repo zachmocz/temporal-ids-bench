@@ -1,0 +1,4 @@
+accuracy,f1_macro,f1_weighted,recall_macro,precision_macro,train_seconds,fpr,fnr,roc_auc,pr_auc,experiment,model,seed,wall_seconds
+1.0,0.5,1.0,0.5,0.5,22.12,0.0,1.0,0.5805,0.5,time_split,Image-CNN (time),2,29.37
+1.0,0.5,1.0,0.5,0.5,23.4,0.0,1.0,0.6035,0.5,time_split,Image-CNN (time),42,27.68
+1.0,0.5,1.0,0.5,0.5,25.78,0.0,1.0,0.6259,0.5,time_split,Image-CNN (time),123,30.07

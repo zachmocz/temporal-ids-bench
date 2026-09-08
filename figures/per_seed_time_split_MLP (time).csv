@@ -1,0 +1,4 @@
+accuracy,f1_macro,f1_weighted,recall_macro,precision_macro,train_seconds,fpr,fnr,roc_auc,pr_auc,experiment,model,seed,wall_seconds
+1.0,0.5,1.0,0.5,0.5,51.41,0.0,1.0,0.9591,0.5002,time_split,MLP (time),2,58.1
+1.0,0.5,1.0,0.5,0.5,15.58,0.0,1.0,0.4622,0.5,time_split,MLP (time),42,19.59
+1.0,0.5,1.0,0.5,0.5,15.28,0.0,1.0,0.5547,0.5,time_split,MLP (time),123,19.25

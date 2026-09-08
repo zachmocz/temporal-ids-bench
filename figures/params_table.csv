@@ -1,0 +1,8 @@
+model,params_total,params_trainable
+MLP,18957,18957
+Image-CNN,53773,53581
+LSTM,51469,51469
+GRU,39629,39629
+1D-CNN,49229,48845
+Transformer,318861,318669
+Transformer-small,70029,69837

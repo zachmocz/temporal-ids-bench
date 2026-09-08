@@ -1,0 +1,4 @@
+accuracy,f1_macro,f1_weighted,recall_macro,precision_macro,train_seconds,fpr,fnr,roc_auc,pr_auc,experiment,model,seed,wall_seconds
+0.9649,0.5679,0.9729,0.7004,0.5268,230.93,0.035,0.0032,0.9913,0.6926,padding_zp,Transformer-ZP,2,276.84
+0.98,0.5086,0.9803,0.5987,0.5124,268.56,0.0122,0.0539,0.9614,0.6505,padding_zp,Transformer-ZP,42,314.73
+0.9732,0.5204,0.9807,0.6693,0.4704,232.66,0.0265,0.0006,0.9791,0.5963,padding_zp,Transformer-ZP,123,278.56

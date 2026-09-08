@@ -1,0 +1,14 @@
+class,n_windows,pct_windows
+BENIGN,557943,88.525
+Bot,27,0.004
+DDoS,55404,8.791
+DoS GoldenEye,3438,0.545
+DoS Hulk,3589,0.569
+DoS slowloris,1498,0.238
+FTP-Patator,3874,0.615
+Infiltration,5,0.001
+PortScan,454,0.072
+SSH-Patator,2889,0.458
+Web Attack – Brute Force,839,0.133
+Web Attack – Sql Injection,16,0.003
+Web Attack – XSS,288,0.046

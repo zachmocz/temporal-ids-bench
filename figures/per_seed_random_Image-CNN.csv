@@ -1,0 +1,4 @@
+accuracy,f1_macro,f1_weighted,recall_macro,precision_macro,train_seconds,fpr,fnr,roc_auc,pr_auc,experiment,model,seed,wall_seconds
+0.7821,0.2888,0.8285,0.6146,0.2965,26.64,0.2409,0.0011,0.9746,0.4878,random,Image-CNN,2,60.7
+0.8427,0.3318,0.8778,0.5929,0.2711,23.58,0.1727,0.0229,0.9408,0.4596,random,Image-CNN,42,56.04
+0.8714,0.4099,0.9109,0.75,0.3399,42.92,0.1424,0.0024,0.9808,0.5694,random,Image-CNN,123,75.02

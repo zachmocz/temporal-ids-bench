@@ -1,0 +1,4 @@
+accuracy,f1_macro,f1_weighted,recall_macro,precision_macro,train_seconds,fpr,fnr,roc_auc,pr_auc,experiment,model,seed,wall_seconds
+0.9961,0.7079,0.9966,0.8592,0.6763,44.83,0.0025,0.0005,0.9935,0.7984,padding_zp,1D-CNN-ZP,2,76.94
+0.9937,0.6771,0.9944,0.8023,0.6452,38.38,0.0046,0.0006,0.9139,0.7717,padding_zp,1D-CNN-ZP,42,70.24
+0.9977,0.7395,0.998,0.8956,0.7137,57.2,0.0014,0.0006,0.9994,0.8259,padding_zp,1D-CNN-ZP,123,89.06

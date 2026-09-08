@@ -1,0 +1,4 @@
+accuracy,f1_macro,f1_weighted,recall_macro,precision_macro,train_seconds,fpr,fnr,roc_auc,pr_auc,experiment,model,seed,wall_seconds
+0.9997,0.5499,0.9998,0.9998,0.5263,85.66,0.0003,0.0,0.9998,0.5556,time_split,GRU (time),2,90.87
+0.9998,0.5,0.9999,0.4999,0.5,58.81,0.0002,1.0,0.9982,0.5053,time_split,GRU (time),42,63.88
+0.9998,0.5,0.9999,0.4999,0.5,75.81,0.0001,1.0,0.9997,0.5294,time_split,GRU (time),123,80.88

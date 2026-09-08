@@ -1,0 +1,4 @@
+accuracy,f1_macro,f1_weighted,recall_macro,precision_macro,train_seconds,fpr,fnr,roc_auc,pr_auc,experiment,model,seed,wall_seconds
+0.9985,0.7954,0.9988,0.876,0.7719,133.12,0.0009,0.0002,0.98,0.8741,random,LSTM,2,160.83
+0.9988,0.7655,0.9989,0.8635,0.7375,130.54,0.0005,0.0001,0.9481,0.8691,random,LSTM,42,159.19
+0.9982,0.766,0.9986,0.8705,0.7368,122.82,0.0013,0.0002,0.9977,0.8438,random,LSTM,123,150.66

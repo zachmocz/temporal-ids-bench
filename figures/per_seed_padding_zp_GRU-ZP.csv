@@ -1,0 +1,4 @@
+accuracy,f1_macro,f1_weighted,recall_macro,precision_macro,train_seconds,fpr,fnr,roc_auc,pr_auc,experiment,model,seed,wall_seconds
+0.9964,0.7307,0.9971,0.865,0.6962,128.68,0.003,0.0006,0.9937,0.8421,padding_zp,GRU-ZP,2,163.79
+0.9971,0.756,0.9977,0.9431,0.716,139.17,0.0025,0.0001,0.9991,0.8576,padding_zp,GRU-ZP,42,174.39
+0.9948,0.7435,0.9963,0.9343,0.7084,112.45,0.0048,0.0004,0.9991,0.8029,padding_zp,GRU-ZP,123,147.56
