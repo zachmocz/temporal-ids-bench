@@ -70,8 +70,8 @@ cbar = fig.colorbar(im, ax=ax, shrink=0.85, pad=0.015)
 cbar.set_label(r'$\Delta$ recall (random $-$ group)', fontsize=10)
 cbar.ax.tick_params(labelsize=9)
 
-out_pdf = HERE / 'fig_perclass_recall_drop_v4.pdf'
-out_png = HERE / 'fig_perclass_recall_drop_v4.png'
+out_pdf = HERE / 'fig_perclass_recall_drop.pdf'
+out_png = HERE / 'fig_perclass_recall_drop.png'
 fig.savefig(out_pdf, bbox_inches='tight', dpi=300)
 fig.savefig(out_png, bbox_inches='tight', dpi=150)
 print(f"Wrote: {out_pdf}\n       {out_png}\nshape: {arr.shape}")

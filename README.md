@@ -19,7 +19,7 @@ A single self-contained notebook that turns the flow-level CIC-IDS2017 dataset i
 | Path | Description |
 |---|---|
 | `Transformer_IDS_Final.ipynb` | The full pipeline above. Runs top to bottom on a single GPU. |
-| `figures/` | Generated figures (PDF + PNG) and the per-seed / summary CSVs behind them, including `master_summary_v4.csv`. |
+| `figures/` | Generated figures (PDF + PNG) and the per-seed / summary CSVs behind them, including `master_summary.csv`. |
 
 ## Running it
 

@@ -91,8 +91,8 @@ cbar.set_label('Recall', fontsize=13)
 cbar.ax.tick_params(labelsize=11)
 
 # ---- Save ----------------------------------------------------------------
-out_pdf = HERE / 'fig_perclass_recall_by_split_v4.pdf'
-out_png = HERE / 'fig_perclass_recall_by_split_v4.png'
+out_pdf = HERE / 'fig_perclass_recall_by_split.pdf'
+out_png = HERE / 'fig_perclass_recall_by_split.png'
 fig.savefig(out_pdf, bbox_inches='tight', dpi=300)
 fig.savefig(out_png, bbox_inches='tight', dpi=150)
 print(f"\nWrote:\n  {out_pdf}\n  {out_png}")
